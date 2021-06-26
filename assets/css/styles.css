@@ -74,7 +74,41 @@
 
 
 /*==================== BASE ====================*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0 0 var(--header-height) 0;
+    font-family: var(--body-font);
+    font-size: var(--normal-font-size);
+    background-color: var(--body-color);
+    color: var(--text-color);
+}
+
+h1,h2,h3,h4{
+    color: var(--title-color);
+    font-weight: var(--font-semi-bold);
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
 
 /*==================== REUSABLE CSS CLASSES ====================*/
 
