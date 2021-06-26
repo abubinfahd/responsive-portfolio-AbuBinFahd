@@ -111,7 +111,24 @@ img{
 }
 
 /*==================== REUSABLE CSS CLASSES ====================*/
+.section{
+    padding: 2rem 0 4rem;
+}
 
+.section__title{
+    font-size: var(--header-height)
+}
+
+.section__subtitle{
+    display: block;
+    font-size: var(--small-font-size);
+    margin-bottom: var(--mb-3);
+}
+
+.section__title,
+.section__subtitle{
+    text-align: center;
+}
 
 /*==================== LAYOUT ====================*/
 
