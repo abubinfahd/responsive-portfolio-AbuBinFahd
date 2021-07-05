@@ -107,7 +107,22 @@ let swiper = new Swiper('.portfolio__container', {
 
 
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
-
+let swiperTestimonial = new Swiper('.testimonial__container', {
+    loop: true,
+    grabCursor: true,
+    spaceBetween: 48,
+ 
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+      dynamicBullets: true,
+    },
+    breakpoints: {
+        568:{
+            slidePerView: 2,
+        }
+    }
+});
 
 /*==================== CHANGE BACKGROUND HEADER ====================*/ 
 
