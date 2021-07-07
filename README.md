@@ -1,7 +1,1 @@
-# Responsive Portfolio Website Alexa
-## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
-### Responsive Portfolio Website Alexa
-Responsive Portfolio Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer.
-Don't forget to join the channel for more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
-
-![Resume cv](/preview.png)
+This is my custimized portfolio that I did it from "responsive-portfolio-Alexa".Here I learned a lot about html, css & js. Like examples blob-image, swiperjs, dom, responsivness, dark-theme etc. And at this stage I learned how to use dark-theme.
